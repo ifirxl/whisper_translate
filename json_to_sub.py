@@ -21,7 +21,7 @@ def youdao(tran_need):
     note: 将下列变量替换为需要请求的参数
     '''
     # 您的应用ID
-    APP_KEY = '67639578ee8ac3dc'
+    APP_KEY = '##'
     # 您的应用密钥
     APP_SECRET = '##'
     lang_from = 'auto'
